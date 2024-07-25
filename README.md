@@ -1,4 +1,3 @@
-# CANTILEVER
 ## Image Captioning with Flask App
 
 This repository implements an image captioning model using a pre-trained InceptionV3 model and an LSTM decoder. It also includes a Flask app that allows users to upload an image and generate a caption.
