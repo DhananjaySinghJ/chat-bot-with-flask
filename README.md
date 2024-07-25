@@ -20,11 +20,10 @@ This repository implements an image captioning model using a pre-trained Incepti
 **Running the Model:**
 
 1. Clone this repository.
-2. Install required libraries using `pip install -r requirements.txt` (requirements.txt file assumed to be present).
-3. Download the pre-trained InceptionV3 weights (`imagenet`) and place them in the same directory as the code.
-4. Run the Flask app using `python app.py` (assuming the main script is named `app.py`).
-5. Access the app in your web browser at `http://127.0.0.1:5000/` (default port).
-6. Upload an image to generate a caption.
+2. Download the pre-trained InceptionV3 weights (`imagenet`) and place them in the same directory as the code.
+3. Run the Flask app using `python imagecaptioning.py`.
+4. Access the app in your web browser at `http://127.0.0.1:5000/` (default port).
+5. Upload an image to generate a caption.
 
 **Model Architecture:**
 
